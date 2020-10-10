@@ -8,7 +8,7 @@ def display_board
  puts ("   |   |   ")
 end 
 
-puts display_board
+puts "a 3x3 tic tac toe board" 
 
 display_board 
 
